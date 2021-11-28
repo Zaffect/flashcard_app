@@ -1,4 +1,4 @@
-﻿# flashcard_app
+﻿# Welcome to Zak Tedder's flashcard application!
 
-# App with basic math and capital flashcards
+# This app offers basic random math and state capital flashcards. The source code is located in the flashcard.py file in the main folder. The executable file is located in the dist directory. Enjoy!
 
